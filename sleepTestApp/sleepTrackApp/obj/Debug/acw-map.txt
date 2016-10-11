@@ -1,0 +1,4 @@
+sleepTrackApp.MainActivity, sleepTrackApp;md5bbca359844d2b043c081e8b358da4358.MainActivity
+sleepTrackApp.MainActivity, sleepTrackApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bbca359844d2b043c081e8b358da4358.MainActivity
+sleepTrackApp.MainActivity;md5bbca359844d2b043c081e8b358da4358.MainActivity
+sleeptrackapp.MainActivity;md5bbca359844d2b043c081e8b358da4358.MainActivity
